@@ -27,7 +27,7 @@ jobs:
           # - build-wavpack
           # - build-lame
           # - build-fdk-aac
-          # - build-ogg
+          - build-ogg
           - build-vorbis
           # - build-theora
           # - build-opus
