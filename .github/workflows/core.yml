@@ -35,7 +35,7 @@ jobs:
           # - build-freetype2
           # - build-fribidi
           # - build-harfbuzz
-          # - build-libass
+          - build-libass
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
